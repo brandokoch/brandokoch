@@ -6,10 +6,16 @@
 <br>
 
 <p align="center">
-<b>Machine Learning Engineer with experience in ML, DL , NLP & CV. Specializing in ConversationalAI & NLP.<b/>
+  <b>Machine Learning Engineer with experience in ML, DL , NLP & CV. Specializing in ConversationalAI & NLP.</b>
 </p>
 
 
 <br>
 
-<img src='background.jpg'>
+<p align="center">
+  <img width="660" height="400" src="tenor.gif">
+</p>
+
+<p align="center">
+  <i>Timelapse of neurons growing in a tissue culture</i>
+</p>
