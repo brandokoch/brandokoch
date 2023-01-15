@@ -1,6 +1,6 @@
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" />](https://www.linkedin.com/in/brandokoch/) 
-[<img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge" />](https://bkoch4142.github.io/blog/) 
+[<img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge" />](blog.brandokoch.com) 
 
 
 <br>
