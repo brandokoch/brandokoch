@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <b>Machine Learning Engineer with experience in ML, DL , NLP & CV.</b>
+  <b>Machine Learning Engineer with experience in ML, DL, NLP & CV.</b>
 </p>
 
 
