@@ -5,7 +5,8 @@
 <br>
 
 <p align="center">
-  <b>Machine Learning Engineer | ML | NLP | AWS | MLOps</b>
+  <b>
+Experience across the full AI lifecycle; from leading AI research and development teams, to designing AI products, systems, and infrastructure, to advising CEOs on AI strategy. Today, I help companies harness the full potential of agentic AI.</b>
 </p>
 
 
