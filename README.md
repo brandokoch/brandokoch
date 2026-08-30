@@ -14,9 +14,9 @@ Experience across the full AI lifecycle; from leading AI research and developmen
 <br>
 
 <p align="center">
-  <img width="660" height="400" src="tenor.gif">
+  <img width="660" height="330" src="hero.gif">
 </p>
 
 <p align="center">
-  <i>Timelapse of neurons growing in a tissue culture</i>
+  <i>Two hands, woven thread by thread. The hero animation from intelligentia.ai</i>
 </p>
