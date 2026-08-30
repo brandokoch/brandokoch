@@ -17,6 +17,3 @@ Experience across the full AI lifecycle; from leading AI research and developmen
   <img width="660" height="330" src="hero.gif">
 </p>
 
-<p align="center">
-  <i>Two hands, woven thread by thread. The hero animation from intelligentia.ai</i>
-</p>
