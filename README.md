@@ -17,3 +17,7 @@ Experience across the full AI lifecycle; from leading AI research and developmen
   <img width="660" height="330" src="hero.gif">
 </p>
 
+<p align="center">
+  <i>Original thread art after The Creation of Adam, with AI on one side. Made by me and AI agents.</i>
+</p>
+
